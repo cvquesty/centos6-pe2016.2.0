@@ -3,9 +3,9 @@ Includes a Puppet Master plus a Development, Testing, and Production Node
 
 In the rollup, I have:
 
-CentOS Linux 7<br>
+CentOS Linux 6<br>
 Puppet Master with Puppet Enterprise 2016.2.0<br>
-Puppet Agents 1-3, all customized to the following three environments:<br>
+Puppet Agents 1-2, all customized to the following three environments:<br>
 - development<br>
 - production<br>
 
